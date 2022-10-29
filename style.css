@@ -1,0 +1,25 @@
+p{
+    color: rgb(15, 15, 15);
+}
+h1{
+    color: rgb(27, 27, 26);
+}
+h3{
+    color: rgb(36, 209, 13);
+}
+#color-rojo{
+    color: black;
+}
+.viernes{
+    color: gold;
+}
+body{
+    background-image: url(https://play-lh.googleusercontent.com/tloNJ-FJVoGHZ0dviAClPTahATTOd-AkeIzRia2xqgDWJQoJOkiwIOCqUq4ogwYTEtU);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: aqua;
+}
+.autor{
+    color: gainsboro;
+    background-color: black;
+}
